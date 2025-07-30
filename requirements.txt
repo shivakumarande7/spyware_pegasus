@@ -1,0 +1,12 @@
+# Core Libraries
+pyfiglet==0.8.post1
+termcolor==2.3.0
+keyboard==0.13.5
+pyperclip==1.8.2
+watchdog==3.0.0
+cryptography==41.0.3
+folium==0.14.0
+rich==13.4.2
+
+# Additional Dependencies for Memory Theft Simulation
+psutil==5.9.5  # For mocking memory regions (optional)
