@@ -44,16 +44,25 @@ By using CyberFatRat, you agree to use it ethically and legally.
 ### Steps
 1. Clone the repository:
    bash
-   git clone https://github.com/your-repo/CyberFatRat.git
-   cd CyberFatRat
+   git clone https://github.com/shivakumarande7/spyware_pegasus
+   cd spyware_pegasus
+
+   use this command after root
+   bash
+   python3 -m venv venv
+   After click enter
+   source bin/active/venv
    
 
-2. Install dependencies:
+3. Install dependencies:
    bash
    pip install -r requirements.txt
    
+               or
+   
+   pip install pyfiglet termcolor keyboard pyperclip watchdog cryptography folium rich psutil
 
-3. Run the tool:
+4. Run the tool:
    bash
    python main.py
    
