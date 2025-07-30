@@ -1,7 +1,8 @@
 # spyware_pegasus
 # CyberFatRat — Ethical Spyware Simulator
 
-![CyberFatRat Banner](<img width="500" height="538" alt="image" src="https://github.com/user-attachments/assets/87df18f5-6dde-463e-9ed9-77afda8eb9df" />
+![CyberFatRat Banner](![pegasus](https://github.com/user-attachments/assets/cd948369-8bde-4083-96d8-1dfd2189b884)
+
 )  
 *A Python-based ethical spyware simulation tool for cybersecurity education and awareness.*
 
